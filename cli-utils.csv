@@ -1,0 +1,8 @@
+TYPE,NAME,DESCRIPTION,SOURCE,UPSTREAM
+P,rxvt-unicode,,,
+P,xsel,,,
+P,git,Version Control,https://github.com/git/git,https://git-scm.com/,
+P,vim,Editor,https://github.com/vim/vim,https://www.vim.org/,
+P,fzf,Fuzzy Finder,https://github.com/junegunn/fzf,
+P,bash-completion,Tab completions in bash.,,
+A,yadm,Wrapper around git for dotfiles management,
